@@ -1,4 +1,4 @@
-# Hoobank Landing Page
+# Hoobank Landing Page ✨
 
 Welcome to Hoobank, where serious UX/UI game meets captivating design! Built with React & Tailwind, Hoobank boasts a plethora of features that are bound to impress:
 
