@@ -20,12 +20,16 @@ Welcome to Hoobank, where serious UX/UI game meets captivating design! Built wit
 - Tailwind CSS
 
 ### Preview 1
+![sample1](https://github.com/abhi-up/banking-modern-app/assets/77201101/71a91c95-c95b-48af-aa91-e224e0da8642)
 
 ### Preview 2
+![sample2](https://github.com/abhi-up/banking-modern-app/assets/77201101/0f1c0160-07e8-4347-8c87-cdfe14526355)
 
 ### Preview 3
+![sample3](https://github.com/abhi-up/banking-modern-app/assets/77201101/f626238b-3aaf-4e3a-84d3-2f0b9866b78a)
 
 ### Preview 4
+![sample4](https://github.com/abhi-up/banking-modern-app/assets/77201101/2f924710-6ae7-49a7-824d-e3d17f047492)
 
 ## How to Use
 
